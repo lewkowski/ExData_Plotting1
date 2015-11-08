@@ -33,6 +33,20 @@ web site</a>:
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
 
+## Files in Repository
+
+The following files are contained in this repository:
+- `README.md` This file, explaining what is within the repository and the project task.
+- `Download_Data.R` R Script to download and unzip the raw data from the web. Extracts to ./Data directory in the working directory.
+- `plot1.R` R Script to generate the first plot. Requires raw data to be in ./Data directory.
+- 'plot1.png' Graphics (bitmap) file containing the 1st plot.
+- `plot2.R` R Script to generate the first plot. Requires raw data to be in ./Data directory.
+- 'plot2.png' Graphics (bitmap) file containing the 2nd plot.
+- `plot3.R` R Script to generate the first plot. Requires raw data to be in ./Data directory.
+- 'plot3.png' Graphics (bitmap) file containing the 3rd plot.
+- `plot4.R` R Script to generate the first plot. Requires raw data to be in ./Data directory.
+- 'plot4.png' Graphics (bitmap) file containing the 4th plot.
+
 ## Loading the data
 
 
