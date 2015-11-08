@@ -38,13 +38,13 @@ web site</a>:
 The following files are contained in this repository as the submission for the assignment:
 - `README.md` This file, explaining what is within the repository and the project task.
 - `Download_Data.R` R Script to download and unzip the raw data from the web. Extracts to ./Data directory in the working directory.
-- `plot1.R` R Script to generate the first plot. Requires raw data to be in ./Data directory.
+- `plot1.R  ` R Script to generate the first plot. Requires raw data to be in ./Data directory.
 - `plot1.png` Graphics (bitmap) file containing the 1st plot.
-- `plot2.R` R Script to generate the first plot. Requires raw data to be in ./Data directory.
+- `plot2.R  ` R Script to generate the second plot. Requires raw data to be in ./Data directory.
 - `plot2.png` Graphics (bitmap) file containing the 2nd plot.
-- `plot3.R` R Script to generate the first plot. Requires raw data to be in ./Data directory.
+- `plot3.R  ` R Script to generate the third plot. Requires raw data to be in ./Data directory.
 - `plot3.png` Graphics (bitmap) file containing the 3rd plot.
-- `plot4.R` R Script to generate the first plot. Requires raw data to be in ./Data directory.
+- `plot4.R  ` R Script to generate the fourth plot. Requires raw data to be in ./Data directory.
 - `plot4.png` Graphics (bitmap) file containing the 4th plot.
 
 ## Loading the data
